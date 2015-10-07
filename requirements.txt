@@ -1,0 +1,7 @@
+PyJWT==1.4.0
+cryptography==1.0.2
+JsonWeb==0.8.2
+cornice==1.1.0
+waitress==0.8.10
+colander==1.0
+passlib==1.6.5
