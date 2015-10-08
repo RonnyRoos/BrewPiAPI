@@ -11,7 +11,5 @@ def get_info(request):
     """
     Returns the current authenticated user.
     """
-    user = get_authenticated_user(request)
-    user["password"] = user["password"]
-    return user
+    return get_authenticated_user(request)
 
