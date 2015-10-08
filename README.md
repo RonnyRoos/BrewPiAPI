@@ -1,3 +1,5 @@
 # BrewPiAPI
 
-Container for the API
+## Setup
+'python setup.py <environment>'
+'pip install -r requirements.txt'
